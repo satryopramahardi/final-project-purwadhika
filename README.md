@@ -12,3 +12,16 @@ Using:
 * Folium for mapping
 * Dash and Plotly for frontend
 * Pandas and Numpy for data cleaning and analysis
+
+This app consist of 3 page:
+
+### home page
+![home 1](https://github.com/satryopramahardi/final-project-purwadhika/blob/master/screenhsot/home1.JPG)
+![home 2](https://raw.githubusercontent.com/satryopramahardi/final-project-purwadhika/master/screenhsot/home2.JPG)
+
+### crime stats page
+![stats 1](https://raw.githubusercontent.com/satryopramahardi/final-project-purwadhika/master/screenhsot/stas1.JPG)
+![stats 2](https://raw.githubusercontent.com/satryopramahardi/final-project-purwadhika/master/screenhsot/stats2.JPG)
+
+### map page
+![map 1](https://github.com/satryopramahardi/final-project-purwadhika/blob/master/screenhsot/maps.JPG)
