@@ -1,0 +1,5 @@
+venv
+tf-gpu
+*.pyc
+.DS_Store
+.env
