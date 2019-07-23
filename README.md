@@ -4,6 +4,8 @@
 A clustering experiment by using OPTICS algorithm to cluster the coordinates of crime incidents in Chicago.
 This experiment clusters each 100 crimes to a single data point. Hopefully this information may helps the alocation of police patrol routes. Data was taken from: https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy
 
+Google Colab Link: https://colab.research.google.com/drive/15_uNLPmGXzPBtg0sxlUqUWhfdVxEBUrU
+
 Run the App:
 > python index.py
 
