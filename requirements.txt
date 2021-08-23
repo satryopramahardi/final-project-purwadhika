@@ -68,7 +68,7 @@ joblib==0.13.2
 jsonschema==3.0.1
 jupyter-client==5.3.1
 jupyter-core==4.5.0
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 jupyterlab-server==0.2.0
 kaggle==1.5.3
 Keras==2.2.4
