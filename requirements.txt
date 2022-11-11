@@ -127,7 +127,7 @@ pyproj==1.9.6
 pyreadline==2.1
 pyrsistent==0.14.11
 PySocks==1.7.0
-pyspark==2.4.3
+pyspark==3.2.2
 python-dateutil==2.8.0
 python-editor==1.0.4
 python-slugify==3.0.2
