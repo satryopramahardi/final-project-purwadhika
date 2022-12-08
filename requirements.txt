@@ -13,7 +13,7 @@ beautifulsoup4==4.7.1
 bleach==3.1.0
 Blueprints==2.3.0.2
 branca==0.3.1
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 Click==7.0
